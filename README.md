@@ -88,6 +88,9 @@ Ademais fluxo em diagrama:
 
 ![Diagrama](./diagrama.svg)
 
+Exemplo de transformação está na seção "Processamento de Filtros Aplicados" no notebook "animal_pose_estimation.ipynb"
+
+
 **Resultados Pós-Processamento**
 
 Apresentação por visualização gráfica, por meio de gráficos simples de distribuição de cores e brilho. Logo abaixo:
